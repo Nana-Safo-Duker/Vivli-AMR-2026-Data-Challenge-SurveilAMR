@@ -1,0 +1,195 @@
+{
+  "dream": {
+    "n": 5928,
+    "years": [
+      2011,
+      2019
+    ],
+    "n_countries": 11,
+    "continents": {
+      "Asia": 3571,
+      "Africa": 978,
+      "Europe": 796,
+      "North America": 583
+    },
+    "countries": {
+      "South Africa": 978,
+      "Pakistan": 899,
+      "Taiwan": 874,
+      "Thailand": 668,
+      "Lithuania": 616,
+      "US": 583,
+      "INDIA": 401,
+      "PHILIPPINES": 366,
+      "Vietnam": 344,
+      "Turkey": 180,
+      "South Korea": 19
+    },
+    "subtype_normalized": {
+      "MDR": 4114,
+      "Pre-XDR": 914,
+      "XDR": 524,
+      "RR/RIF-R": 279,
+      "Other": 97
+    },
+    "bdq_mic_median": 0.03,
+    "bdq_mic_mean": 0.05354571524966262,
+    "bdq_gt_0_12_pct": 2.0917678812415654,
+    "bdq_gt_0_25_pct": 0.5566801619433198,
+    "africa_n": 978,
+    "bdq_median_by_continent": {
+      "Africa": 0.06,
+      "Asia": 0.03,
+      "Europe": 0.03,
+      "North America": 0.03
+    },
+    "bdq_median_by_year": {
+      "2011": 0.265,
+      "2013": 0.06,
+      "2014": 0.03,
+      "2015": 0.03,
+      "2016": 0.03,
+      "2017": 0.03,
+      "2018": 0.06,
+      "2019": 0.03
+    },
+    "bdq_median_by_subtype": {
+      "MDR": 0.03,
+      "Other": 0.06,
+      "Pre-XDR": 0.03,
+      "RR/RIF-R": 0.06,
+      "XDR": 0.06
+    }
+  },
+  "gasar": {
+    "n": 496,
+    "years": [
+      2022,
+      2023
+    ],
+    "countries": {
+      "India": 494
+    },
+    "species": {
+      "E. coli": 283,
+      "K. pneumoniae": 101,
+      "Klebsiella spp.": 43,
+      "P. aeruginosa": 38,
+      "A. baumannii": 28,
+      "Pseudomonas spp.": 1
+    },
+    "phenotype_buckets": {
+      "Non-ESBL/Non-MBL": 200,
+      "ESBL": 135,
+      "MBL": 102,
+      "ESBL+MBL": 50,
+      "Other": 5,
+      "Carbapenemase": 4
+    },
+    "gene_top": {
+      "-": 200,
+      "VIM-1, NDM-1": 41,
+      "TEM-1": 21,
+      "NDM-1": 18,
+      "TEM-1, SHV-18": 18,
+      "TEM-1, CTX-M": 16,
+      "TEM-1, SHV-18, CTX-M": 14,
+      "SHV-18": 12,
+      "SHV-18, CTX-M": 11,
+      "VIM-1": 11,
+      "TEM-1, AmpC": 7,
+      "TEM-1, VIM-1, NDM-1": 6
+    },
+    "poly_mic_median": 0.25,
+    "poly_mic_ge4_pct": 3.024193548387097,
+    "mbl_or_carb_pct": 31.451612903225808
+  },
+  "keystone": {
+    "n": 96302,
+    "years": [
+      2015,
+      2025
+    ],
+    "n_species": 165,
+    "n_countries": 20,
+    "top_species": {
+      "Staphylococcus aureus": 22139,
+      "Escherichia coli": 15347,
+      "Pseudomonas aeruginosa": 7837,
+      "Klebsiella pneumoniae": 7804,
+      "Streptococcus pneumoniae": 6494,
+      "Enterococcus faecalis": 3625,
+      "Haemophilus influenzae": 3451,
+      "Acinetobacter baumannii-calcoaceticus species complex": 2084,
+      "Streptococcus pyogenes": 2035,
+      "Proteus mirabilis": 2006,
+      "Enterobacter cloacae species complex": 1965,
+      "Enterococcus faecium": 1824
+    },
+    "top_countries": {
+      "USA": 71802,
+      "Germany": 3736,
+      "France": 3303,
+      "Italy": 3000,
+      "Spain": 2273,
+      "UK": 1929,
+      "Turkey": 1581,
+      "Sweden": 1412,
+      "Ireland": 1334,
+      "Russia": 1264,
+      "Belgium": 750,
+      "Greece": 725
+    },
+    "continents": {
+      "North America": 71802,
+      "Europe": 24500
+    },
+    "africa_n": 0,
+    "africa_countries": {},
+    "omadacycline_mic_overall_median": 0.5,
+    "mic_summary": [
+      {
+        "Organism": "Staphylococcus aureus",
+        "n": 22121,
+        "MIC50": 0.12,
+        "MIC90": 0.25,
+        "mean": 0.14001469192170338
+      },
+      {
+        "Organism": "Escherichia coli",
+        "n": 15343,
+        "MIC50": 0.5,
+        "MIC90": 2.0,
+        "mean": 0.9186045753763932
+      },
+      {
+        "Organism": "Klebsiella pneumoniae",
+        "n": 7804,
+        "MIC50": 2.0,
+        "MIC90": 4.0,
+        "mean": 2.796784982060482
+      },
+      {
+        "Organism": "Streptococcus pneumoniae",
+        "n": 6360,
+        "MIC50": 0.06,
+        "MIC90": 0.12,
+        "mean": 0.06303427672955975
+      },
+      {
+        "Organism": "Enterococcus faecalis",
+        "n": 3612,
+        "MIC50": 0.06,
+        "MIC90": 0.25,
+        "mean": 0.10736655592469549
+      },
+      {
+        "Organism": "Pseudomonas aeruginosa",
+        "n": 7837,
+        "MIC50": 32.0,
+        "MIC90": 32.0,
+        "mean": 26.658526221768533
+      }
+    ]
+  }
+}

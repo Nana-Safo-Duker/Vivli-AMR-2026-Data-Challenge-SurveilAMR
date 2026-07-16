@@ -1,0 +1,13 @@
+Gene,Count
+-,200
+"VIM-1, NDM-1",41
+TEM-1,21
+NDM-1,18
+"TEM-1, SHV-18",18
+"TEM-1, CTX-M",16
+"TEM-1, SHV-18, CTX-M",14
+SHV-18,12
+"SHV-18, CTX-M",11
+VIM-1,11
+"TEM-1, AmpC",7
+"TEM-1, VIM-1, NDM-1",6

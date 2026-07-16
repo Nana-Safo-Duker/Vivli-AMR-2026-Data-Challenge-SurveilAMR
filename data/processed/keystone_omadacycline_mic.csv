@@ -1,0 +1,7 @@
+Organism,n,MIC50,MIC90,mean
+Staphylococcus aureus,22121,0.12,0.25,0.14001469192170338
+Escherichia coli,15343,0.5,2.0,0.9186045753763932
+Klebsiella pneumoniae,7804,2.0,4.0,2.796784982060482
+Streptococcus pneumoniae,6360,0.06,0.12,0.06303427672955975
+Enterococcus faecalis,3612,0.06,0.25,0.10736655592469549
+Pseudomonas aeruginosa,7837,32.0,32.0,26.658526221768533

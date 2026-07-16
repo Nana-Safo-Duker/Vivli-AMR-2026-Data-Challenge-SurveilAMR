@@ -1,0 +1,378 @@
+Species,Country,Antibiotic,Total_Isolates,Resistant,Resistance_Pct
+Escherichia coli,Argentina,Meropenem,2047,13,0.64
+Escherichia coli,Australia,Meropenem,1926,4,0.21
+Escherichia coli,Belgium,Meropenem,3261,6,0.18
+Escherichia coli,Brazil,Meropenem,2274,41,1.8
+Escherichia coli,Canada,Meropenem,2844,3,0.11
+Escherichia coli,Chile,Meropenem,1580,3,0.19
+Escherichia coli,Croatia,Meropenem,1266,6,0.47
+Escherichia coli,Czech Republic,Meropenem,1751,1,0.06
+Escherichia coli,Finland,Meropenem,408,0,0.0
+Escherichia coli,France,Meropenem,6516,5,0.08
+Escherichia coli,Germany,Meropenem,5852,19,0.32
+Escherichia coli,Greece,Meropenem,1890,9,0.48
+Escherichia coli,Guatemala,Meropenem,970,37,3.81
+Escherichia coli,Honduras,Meropenem,78,1,1.28
+Escherichia coli,Hong Kong,Meropenem,450,0,0.0
+Escherichia coli,Hungary,Meropenem,1521,2,0.13
+Escherichia coli,India,Meropenem,2876,510,17.73
+Escherichia coli,Ireland,Meropenem,1043,1,0.1
+Escherichia coli,Israel,Meropenem,2111,18,0.85
+Escherichia coli,Italy,Meropenem,6617,52,0.79
+Escherichia coli,"Korea, South",Meropenem,2502,9,0.36
+Escherichia coli,Mexico,Meropenem,3891,73,1.88
+Escherichia coli,Netherlands,Meropenem,931,0,0.0
+Escherichia coli,Panama,Meropenem,654,3,0.46
+Escherichia coli,Singapore,Meropenem,199,0,0.0
+Escherichia coli,Slovak Republic,Meropenem,113,0,0.0
+Escherichia coli,Slovenia,Meropenem,338,2,0.59
+Escherichia coli,South Africa,Meropenem,1733,8,0.46
+Escherichia coli,Spain,Meropenem,7274,11,0.15
+Escherichia coli,Sweden,Meropenem,882,0,0.0
+Escherichia coli,Taiwan,Meropenem,1743,19,1.09
+Escherichia coli,Turkey,Meropenem,1894,21,1.11
+Escherichia coli,United Kingdom,Meropenem,2040,9,0.44
+Escherichia coli,United States,Meropenem,16562,59,0.36
+Escherichia coli,Venezuela,Meropenem,1596,18,1.13
+Escherichia coli,Austria,Meropenem,610,0,0.0
+Escherichia coli,Bulgaria,Meropenem,364,1,0.27
+Escherichia coli,China,Meropenem,4774,109,2.28
+Escherichia coli,Colombia,Meropenem,2262,34,1.5
+Escherichia coli,Denmark,Meropenem,955,3,0.31
+Escherichia coli,El Salvador,Meropenem,79,8,10.13
+Escherichia coli,Jordan,Meropenem,327,5,1.53
+Escherichia coli,Latvia,Meropenem,302,1,0.33
+Escherichia coli,Lithuania,Meropenem,485,1,0.21
+Escherichia coli,Malaysia,Meropenem,746,5,0.67
+Escherichia coli,Philippines,Meropenem,1397,29,2.08
+Escherichia coli,Poland,Meropenem,1511,4,0.26
+Escherichia coli,Portugal,Meropenem,2338,3,0.13
+Escherichia coli,Romania,Meropenem,1196,10,0.84
+Escherichia coli,Saudi Arabia,Meropenem,279,0,0.0
+Escherichia coli,Switzerland,Meropenem,805,0,0.0
+Escherichia coli,Thailand,Meropenem,1543,37,2.4
+Escherichia coli,Egypt,Meropenem,91,7,7.69
+Escherichia coli,Japan,Meropenem,983,1,0.1
+Escherichia coli,Kuwait,Meropenem,1317,13,0.99
+Escherichia coli,Morocco,Meropenem,667,9,1.35
+Escherichia coli,Russia,Meropenem,1616,13,0.8
+Escherichia coli,Tunisia,Meropenem,100,1,1.0
+Escherichia coli,Kenya,Meropenem,160,3,1.88
+Escherichia coli,Nigeria,Meropenem,1057,25,2.37
+Escherichia coli,Pakistan,Meropenem,75,5,6.67
+Escherichia coli,Costa Rica,Meropenem,191,2,1.05
+Escherichia coli,Dominican Republic,Meropenem,185,2,1.08
+Escherichia coli,Ukraine,Meropenem,326,22,6.75
+Escherichia coli,Cameroon,Meropenem,238,0,0.0
+Escherichia coli,Ivory Coast,Meropenem,191,4,2.09
+Escherichia coli,New Zealand,Meropenem,301,0,0.0
+Escherichia coli,Qatar,Meropenem,151,11,7.28
+Escherichia coli,Ghana,Meropenem,80,1,1.25
+Escherichia coli,Malawi,Meropenem,61,1,1.64
+Escherichia coli,Uganda,Meropenem,91,3,3.3
+Klebsiella pneumoniae,Argentina,Meropenem,1950,408,20.92
+Klebsiella pneumoniae,Australia,Meropenem,1597,15,0.94
+Klebsiella pneumoniae,Belgium,Meropenem,2527,76,3.01
+Klebsiella pneumoniae,Brazil,Meropenem,2277,796,34.96
+Klebsiella pneumoniae,Canada,Meropenem,2225,14,0.63
+Klebsiella pneumoniae,Chile,Meropenem,1443,87,6.03
+Klebsiella pneumoniae,Croatia,Meropenem,1154,195,16.9
+Klebsiella pneumoniae,Czech Republic,Meropenem,1588,16,1.01
+Klebsiella pneumoniae,Finland,Meropenem,173,0,0.0
+Klebsiella pneumoniae,France,Meropenem,4790,30,0.63
+Klebsiella pneumoniae,Germany,Meropenem,4113,79,1.92
+Klebsiella pneumoniae,Greece,Meropenem,1721,867,50.38
+Klebsiella pneumoniae,Guatemala,Meropenem,773,176,22.77
+Klebsiella pneumoniae,Honduras,Meropenem,76,6,7.89
+Klebsiella pneumoniae,Hong Kong,Meropenem,368,2,0.54
+Klebsiella pneumoniae,Hungary,Meropenem,1336,35,2.62
+Klebsiella pneumoniae,India,Meropenem,3166,1698,53.63
+Klebsiella pneumoniae,Ireland,Meropenem,744,9,1.21
+Klebsiella pneumoniae,Israel,Meropenem,1956,120,6.13
+Klebsiella pneumoniae,Italy,Meropenem,5668,1630,28.76
+Klebsiella pneumoniae,"Korea, South",Meropenem,1603,52,3.24
+Klebsiella pneumoniae,Mexico,Meropenem,3144,162,5.15
+Klebsiella pneumoniae,Netherlands,Meropenem,791,2,0.25
+Klebsiella pneumoniae,Panama,Meropenem,675,32,4.74
+Klebsiella pneumoniae,Singapore,Meropenem,201,2,1.0
+Klebsiella pneumoniae,Slovak Republic,Meropenem,119,1,0.84
+Klebsiella pneumoniae,South Africa,Meropenem,1660,240,14.46
+Klebsiella pneumoniae,Spain,Meropenem,5931,254,4.28
+Klebsiella pneumoniae,Sweden,Meropenem,605,1,0.17
+Klebsiella pneumoniae,Taiwan,Meropenem,1758,86,4.89
+Klebsiella pneumoniae,United Kingdom,Meropenem,1526,40,2.62
+Klebsiella pneumoniae,United States,Meropenem,13318,566,4.25
+Klebsiella pneumoniae,Venezuela,Meropenem,1327,86,6.48
+Klebsiella pneumoniae,Austria,Meropenem,423,15,3.55
+Klebsiella pneumoniae,Bulgaria,Meropenem,326,68,20.86
+Klebsiella pneumoniae,China,Meropenem,4458,726,16.29
+Klebsiella pneumoniae,Colombia,Meropenem,1965,349,17.76
+Klebsiella pneumoniae,Denmark,Meropenem,713,1,0.14
+Klebsiella pneumoniae,El Salvador,Meropenem,67,14,20.9
+Klebsiella pneumoniae,Jordan,Meropenem,343,71,20.7
+Klebsiella pneumoniae,Latvia,Meropenem,309,3,0.97
+Klebsiella pneumoniae,Lithuania,Meropenem,485,11,2.27
+Klebsiella pneumoniae,Malaysia,Meropenem,863,48,5.56
+Klebsiella pneumoniae,Philippines,Meropenem,1489,167,11.22
+Klebsiella pneumoniae,Poland,Meropenem,1344,139,10.34
+Klebsiella pneumoniae,Portugal,Meropenem,2246,158,7.03
+Klebsiella pneumoniae,Romania,Meropenem,1261,339,26.88
+Klebsiella pneumoniae,Saudi Arabia,Meropenem,303,39,12.87
+Klebsiella pneumoniae,Slovenia,Meropenem,145,2,1.38
+Klebsiella pneumoniae,Switzerland,Meropenem,559,4,0.72
+Klebsiella pneumoniae,Thailand,Meropenem,1659,206,12.42
+Klebsiella pneumoniae,Turkey,Meropenem,1713,509,29.71
+Klebsiella pneumoniae,Egypt,Meropenem,78,27,34.62
+Klebsiella pneumoniae,Japan,Meropenem,672,5,0.74
+Klebsiella pneumoniae,Kuwait,Meropenem,1380,157,11.38
+Klebsiella pneumoniae,Morocco,Meropenem,728,88,12.09
+Klebsiella pneumoniae,Russia,Meropenem,1612,333,20.66
+Klebsiella pneumoniae,Tunisia,Meropenem,97,7,7.22
+Klebsiella pneumoniae,Kenya,Meropenem,115,10,8.7
+Klebsiella pneumoniae,Nigeria,Meropenem,967,146,15.1
+Klebsiella pneumoniae,Pakistan,Meropenem,55,13,23.64
+Klebsiella pneumoniae,Costa Rica,Meropenem,182,15,8.24
+Klebsiella pneumoniae,Dominican Republic,Meropenem,200,3,1.5
+Klebsiella pneumoniae,Ukraine,Meropenem,420,256,60.95
+Klebsiella pneumoniae,Cameroon,Meropenem,167,8,4.79
+Klebsiella pneumoniae,Ivory Coast,Meropenem,184,1,0.54
+Klebsiella pneumoniae,New Zealand,Meropenem,226,0,0.0
+Klebsiella pneumoniae,Qatar,Meropenem,196,34,17.35
+Klebsiella pneumoniae,Malawi,Meropenem,55,7,12.73
+Klebsiella pneumoniae,Uganda,Meropenem,64,0,0.0
+Pseudomonas aeruginosa,Argentina,Meropenem,1773,494,27.86
+Pseudomonas aeruginosa,Australia,Meropenem,2025,135,6.67
+Pseudomonas aeruginosa,Belgium,Meropenem,3129,554,17.71
+Pseudomonas aeruginosa,Brazil,Meropenem,2152,543,25.23
+Pseudomonas aeruginosa,Canada,Meropenem,2902,419,14.44
+Pseudomonas aeruginosa,Chile,Meropenem,1479,568,38.4
+Pseudomonas aeruginosa,Czech Republic,Meropenem,1881,475,25.25
+Pseudomonas aeruginosa,Finland,Meropenem,401,14,3.49
+Pseudomonas aeruginosa,France,Meropenem,6047,763,12.62
+Pseudomonas aeruginosa,Germany,Meropenem,5563,925,16.63
+Pseudomonas aeruginosa,Greece,Meropenem,1645,512,31.12
+Pseudomonas aeruginosa,Guatemala,Meropenem,826,298,36.08
+Pseudomonas aeruginosa,Hong Kong,Meropenem,365,54,14.79
+Pseudomonas aeruginosa,India,Meropenem,2672,763,28.56
+Pseudomonas aeruginosa,Ireland,Meropenem,962,115,11.95
+Pseudomonas aeruginosa,Israel,Meropenem,2028,230,11.34
+Pseudomonas aeruginosa,Italy,Meropenem,6026,1399,23.22
+Pseudomonas aeruginosa,"Korea, South",Meropenem,1759,386,21.94
+Pseudomonas aeruginosa,Mexico,Meropenem,3173,988,31.14
+Pseudomonas aeruginosa,Netherlands,Meropenem,837,41,4.9
+Pseudomonas aeruginosa,Panama,Meropenem,653,113,17.3
+Pseudomonas aeruginosa,Singapore,Meropenem,170,30,17.65
+Pseudomonas aeruginosa,Slovak Republic,Meropenem,99,19,19.19
+Pseudomonas aeruginosa,Slovenia,Meropenem,338,34,10.06
+Pseudomonas aeruginosa,South Africa,Meropenem,1692,338,19.98
+Pseudomonas aeruginosa,Spain,Meropenem,6929,1468,21.19
+Pseudomonas aeruginosa,Sweden,Meropenem,735,54,7.35
+Pseudomonas aeruginosa,Taiwan,Meropenem,1864,248,13.3
+Pseudomonas aeruginosa,United States,Meropenem,14792,2275,15.38
+Pseudomonas aeruginosa,Venezuela,Meropenem,1324,411,31.04
+Pseudomonas aeruginosa,Austria,Meropenem,479,64,13.36
+Pseudomonas aeruginosa,Bulgaria,Meropenem,334,112,33.53
+Pseudomonas aeruginosa,China,Meropenem,4338,949,21.88
+Pseudomonas aeruginosa,Colombia,Meropenem,2013,533,26.48
+Pseudomonas aeruginosa,Croatia,Meropenem,1310,472,36.03
+Pseudomonas aeruginosa,Denmark,Meropenem,824,37,4.49
+Pseudomonas aeruginosa,Hungary,Meropenem,1536,383,24.93
+Pseudomonas aeruginosa,Latvia,Meropenem,340,70,20.59
+Pseudomonas aeruginosa,Lithuania,Meropenem,549,81,14.75
+Pseudomonas aeruginosa,Malaysia,Meropenem,855,93,10.88
+Pseudomonas aeruginosa,Philippines,Meropenem,1499,257,17.14
+Pseudomonas aeruginosa,Poland,Meropenem,1492,337,22.59
+Pseudomonas aeruginosa,Portugal,Meropenem,2188,452,20.66
+Pseudomonas aeruginosa,Romania,Meropenem,1201,494,41.13
+Pseudomonas aeruginosa,Saudi Arabia,Meropenem,258,56,21.71
+Pseudomonas aeruginosa,Switzerland,Meropenem,794,60,7.56
+Pseudomonas aeruginosa,Thailand,Meropenem,1691,397,23.48
+Pseudomonas aeruginosa,Turkey,Meropenem,1660,457,27.53
+Pseudomonas aeruginosa,United Kingdom,Meropenem,1945,181,9.31
+Pseudomonas aeruginosa,Japan,Meropenem,1072,126,11.75
+Pseudomonas aeruginosa,Jordan,Meropenem,255,57,22.35
+Pseudomonas aeruginosa,Kuwait,Meropenem,1413,335,23.71
+Pseudomonas aeruginosa,Morocco,Meropenem,722,143,19.81
+Pseudomonas aeruginosa,Russia,Meropenem,1219,522,42.82
+Pseudomonas aeruginosa,Tunisia,Meropenem,81,20,24.69
+Pseudomonas aeruginosa,Kenya,Meropenem,80,11,13.75
+Pseudomonas aeruginosa,Nigeria,Meropenem,559,143,25.58
+Pseudomonas aeruginosa,Costa Rica,Meropenem,236,19,8.05
+Pseudomonas aeruginosa,Dominican Republic,Meropenem,258,13,5.04
+Pseudomonas aeruginosa,Ukraine,Meropenem,469,322,68.66
+Pseudomonas aeruginosa,Cameroon,Meropenem,71,8,11.27
+Pseudomonas aeruginosa,Ivory Coast,Meropenem,100,14,14.0
+Pseudomonas aeruginosa,New Zealand,Meropenem,375,10,2.67
+Pseudomonas aeruginosa,Qatar,Meropenem,205,97,47.32
+Pseudomonas aeruginosa,Ghana,Meropenem,61,4,6.56
+Staphylococcus aureus,Argentina,Oxacillin,2458,1316,53.54
+Staphylococcus aureus,Australia,Oxacillin,3070,1409,45.9
+Staphylococcus aureus,Austria,Oxacillin,840,437,52.02
+Staphylococcus aureus,Belgium,Oxacillin,3014,906,30.06
+Staphylococcus aureus,Brazil,Oxacillin,2434,875,35.95
+Staphylococcus aureus,Chile,Oxacillin,2204,922,41.83
+Staphylococcus aureus,China,Oxacillin,6797,3050,44.87
+Staphylococcus aureus,Colombia,Oxacillin,2097,1004,47.88
+Staphylococcus aureus,Czech Republic,Oxacillin,2432,831,34.17
+Staphylococcus aureus,Denmark,Oxacillin,1254,571,45.53
+Staphylococcus aureus,France,Oxacillin,5321,2052,38.56
+Staphylococcus aureus,Germany,Oxacillin,4814,1728,35.9
+Staphylococcus aureus,Greece,Oxacillin,2410,1179,48.92
+Staphylococcus aureus,Hungary,Oxacillin,2497,1200,48.06
+Staphylococcus aureus,Israel,Oxacillin,2823,1396,49.45
+Staphylococcus aureus,Italy,Oxacillin,5173,2256,43.61
+Staphylococcus aureus,Japan,Oxacillin,1792,1006,56.14
+Staphylococcus aureus,"Korea, South",Oxacillin,2779,1578,56.78
+Staphylococcus aureus,Kuwait,Oxacillin,2333,1083,46.42
+Staphylococcus aureus,Mexico,Oxacillin,3350,1466,43.76
+Staphylococcus aureus,Netherlands,Oxacillin,767,79,10.3
+Staphylococcus aureus,Philippines,Oxacillin,2726,1496,54.88
+Staphylococcus aureus,Portugal,Oxacillin,3317,1721,51.88
+Staphylococcus aureus,Romania,Oxacillin,1560,674,43.21
+Staphylococcus aureus,Russia,Oxacillin,2869,961,33.5
+Staphylococcus aureus,South Africa,Oxacillin,2157,694,32.17
+Staphylococcus aureus,Spain,Oxacillin,5791,2602,44.93
+Staphylococcus aureus,Sweden,Oxacillin,867,286,32.99
+Staphylococcus aureus,Taiwan,Oxacillin,2921,1614,55.26
+Staphylococcus aureus,Thailand,Oxacillin,2527,1094,43.29
+Staphylococcus aureus,Turkey,Oxacillin,2431,1094,45.0
+Staphylococcus aureus,United Kingdom,Oxacillin,2632,1051,39.93
+Staphylococcus aureus,United States,Oxacillin,12762,7081,55.49
+Staphylococcus aureus,Venezuela,Oxacillin,2133,1213,56.87
+Staphylococcus aureus,Hong Kong,Oxacillin,321,125,38.94
+Staphylococcus aureus,Ireland,Oxacillin,683,149,21.82
+Staphylococcus aureus,Kenya,Oxacillin,150,49,32.67
+Staphylococcus aureus,Malaysia,Oxacillin,1135,410,36.12
+Staphylococcus aureus,Poland,Oxacillin,1747,536,30.68
+Staphylococcus aureus,Nigeria,Oxacillin,471,204,43.31
+Staphylococcus aureus,Canada,Oxacillin,1983,370,18.66
+Staphylococcus aureus,Costa Rica,Oxacillin,266,116,43.61
+Staphylococcus aureus,Croatia,Oxacillin,1073,343,31.97
+Staphylococcus aureus,Dominican Republic,Oxacillin,242,151,62.4
+Staphylococcus aureus,Finland,Oxacillin,244,9,3.69
+Staphylococcus aureus,Guatemala,Oxacillin,612,185,30.23
+Staphylococcus aureus,India,Oxacillin,2022,762,37.69
+Staphylococcus aureus,Jordan,Oxacillin,208,123,59.13
+Staphylococcus aureus,Latvia,Oxacillin,281,17,6.05
+Staphylococcus aureus,Lithuania,Oxacillin,539,64,11.87
+Staphylococcus aureus,Morocco,Oxacillin,655,105,16.03
+Staphylococcus aureus,Panama,Oxacillin,487,123,25.26
+Staphylococcus aureus,Saudi Arabia,Oxacillin,136,61,44.85
+Staphylococcus aureus,Switzerland,Oxacillin,512,48,9.38
+Staphylococcus aureus,Ukraine,Oxacillin,502,110,21.91
+Staphylococcus aureus,Ivory Coast,Oxacillin,88,40,45.45
+Staphylococcus aureus,New Zealand,Oxacillin,404,65,16.09
+Staphylococcus aureus,Qatar,Oxacillin,228,158,69.3
+Staphylococcus aureus,Slovenia,Oxacillin,204,16,7.84
+Staphylococcus aureus,Bulgaria,Oxacillin,107,15,14.02
+Acinetobacter baumannii,Argentina,Meropenem,910,830,91.21
+Acinetobacter baumannii,Australia,Meropenem,429,28,6.53
+Acinetobacter baumannii,Belgium,Meropenem,572,140,24.48
+Acinetobacter baumannii,Canada,Meropenem,615,41,6.67
+Acinetobacter baumannii,Chile,Meropenem,386,191,49.48
+Acinetobacter baumannii,Czech Republic,Meropenem,564,111,19.68
+Acinetobacter baumannii,Finland,Meropenem,61,5,8.2
+Acinetobacter baumannii,France,Meropenem,2093,322,15.38
+Acinetobacter baumannii,Germany,Meropenem,1523,295,19.37
+Acinetobacter baumannii,Greece,Meropenem,931,852,91.51
+Acinetobacter baumannii,Guatemala,Meropenem,502,429,85.46
+Acinetobacter baumannii,Hong Kong,Meropenem,107,46,42.99
+Acinetobacter baumannii,India,Meropenem,1435,1271,88.57
+Acinetobacter baumannii,Israel,Meropenem,882,644,73.02
+Acinetobacter baumannii,Italy,Meropenem,2990,2474,82.74
+Acinetobacter baumannii,"Korea, South",Meropenem,790,680,86.08
+Acinetobacter baumannii,Mexico,Meropenem,1145,824,71.97
+Acinetobacter baumannii,Panama,Meropenem,328,216,65.85
+Acinetobacter baumannii,Singapore,Meropenem,74,48,64.86
+Acinetobacter baumannii,South Africa,Meropenem,671,539,80.33
+Acinetobacter baumannii,Spain,Meropenem,2543,1467,57.69
+Acinetobacter baumannii,Taiwan,Meropenem,657,378,57.53
+Acinetobacter baumannii,United States,Meropenem,5276,2226,42.19
+Acinetobacter baumannii,Austria,Meropenem,91,22,24.18
+Acinetobacter baumannii,Brazil,Meropenem,929,819,88.16
+Acinetobacter baumannii,Bulgaria,Meropenem,227,169,74.45
+Acinetobacter baumannii,China,Meropenem,2038,1478,72.52
+Acinetobacter baumannii,Colombia,Meropenem,472,219,46.4
+Acinetobacter baumannii,Croatia,Meropenem,829,771,93.0
+Acinetobacter baumannii,Denmark,Meropenem,87,15,17.24
+Acinetobacter baumannii,Hungary,Meropenem,531,334,62.9
+Acinetobacter baumannii,Ireland,Meropenem,60,3,5.0
+Acinetobacter baumannii,Latvia,Meropenem,212,198,93.4
+Acinetobacter baumannii,Lithuania,Meropenem,342,308,90.06
+Acinetobacter baumannii,Netherlands,Meropenem,73,3,4.11
+Acinetobacter baumannii,Poland,Meropenem,644,423,65.68
+Acinetobacter baumannii,Portugal,Meropenem,701,525,74.89
+Acinetobacter baumannii,Romania,Meropenem,669,580,86.7
+Acinetobacter baumannii,Slovenia,Meropenem,88,17,19.32
+Acinetobacter baumannii,Sweden,Meropenem,165,7,4.24
+Acinetobacter baumannii,Switzerland,Meropenem,98,19,19.39
+Acinetobacter baumannii,Thailand,Meropenem,763,628,82.31
+Acinetobacter baumannii,Turkey,Meropenem,986,891,90.37
+Acinetobacter baumannii,Venezuela,Meropenem,258,190,73.64
+Acinetobacter baumannii,Jordan,Meropenem,158,147,93.04
+Acinetobacter baumannii,Kuwait,Meropenem,626,484,77.32
+Acinetobacter baumannii,Morocco,Meropenem,405,362,89.38
+Acinetobacter baumannii,Philippines,Meropenem,343,182,53.06
+Acinetobacter baumannii,Russia,Meropenem,592,492,83.11
+Acinetobacter baumannii,Saudi Arabia,Meropenem,97,90,92.78
+Acinetobacter baumannii,United Kingdom,Meropenem,140,24,17.14
+Acinetobacter baumannii,Malaysia,Meropenem,429,321,74.83
+Acinetobacter baumannii,Japan,Meropenem,202,5,2.48
+Acinetobacter baumannii,Nigeria,Meropenem,148,70,47.3
+Acinetobacter baumannii,Ukraine,Meropenem,258,242,93.8
+Acinetobacter baumannii,Dominican Republic,Meropenem,77,7,9.09
+Enterococcus faecalis,Argentina,Vancomycin,775,4,0.52
+Enterococcus faecalis,Australia,Vancomycin,609,2,0.33
+Enterococcus faecalis,Belgium,Vancomycin,1170,1,0.09
+Enterococcus faecalis,Brazil,Vancomycin,700,64,9.14
+Enterococcus faecalis,Canada,Vancomycin,1097,4,0.36
+Enterococcus faecalis,Chile,Vancomycin,458,7,1.53
+Enterococcus faecalis,China,Vancomycin,1256,3,0.24
+Enterococcus faecalis,Colombia,Vancomycin,752,6,0.8
+Enterococcus faecalis,Czech Republic,Vancomycin,480,2,0.42
+Enterococcus faecalis,Denmark,Vancomycin,231,0,0.0
+Enterococcus faecalis,Finland,Vancomycin,128,0,0.0
+Enterococcus faecalis,France,Vancomycin,2398,6,0.25
+Enterococcus faecalis,Germany,Vancomycin,1864,8,0.43
+Enterococcus faecalis,Greece,Vancomycin,584,13,2.23
+Enterococcus faecalis,Guatemala,Vancomycin,341,2,0.59
+Enterococcus faecalis,Hong Kong,Vancomycin,74,0,0.0
+Enterococcus faecalis,Hungary,Vancomycin,474,2,0.42
+Enterococcus faecalis,India,Vancomycin,580,5,0.86
+Enterococcus faecalis,Ireland,Vancomycin,315,10,3.17
+Enterococcus faecalis,Israel,Vancomycin,662,1,0.15
+Enterococcus faecalis,Italy,Vancomycin,2518,63,2.5
+Enterococcus faecalis,"Korea, South",Vancomycin,483,4,0.83
+Enterococcus faecalis,Mexico,Vancomycin,1133,6,0.53
+Enterococcus faecalis,Netherlands,Vancomycin,235,0,0.0
+Enterococcus faecalis,Philippines,Vancomycin,315,0,0.0
+Enterococcus faecalis,Singapore,Vancomycin,66,0,0.0
+Enterococcus faecalis,South Africa,Vancomycin,609,0,0.0
+Enterococcus faecalis,Spain,Vancomycin,2610,2,0.08
+Enterococcus faecalis,Sweden,Vancomycin,271,0,0.0
+Enterococcus faecalis,Switzerland,Vancomycin,302,0,0.0
+Enterococcus faecalis,Taiwan,Vancomycin,444,21,4.73
+Enterococcus faecalis,Turkey,Vancomycin,502,0,0.0
+Enterococcus faecalis,United Kingdom,Vancomycin,535,12,2.24
+Enterococcus faecalis,United States,Vancomycin,7969,353,4.43
+Enterococcus faecalis,Venezuela,Vancomycin,396,1,0.25
+Enterococcus faecalis,Austria,Vancomycin,123,1,0.81
+Enterococcus faecalis,Bulgaria,Vancomycin,105,0,0.0
+Enterococcus faecalis,Croatia,Vancomycin,469,3,0.64
+Enterococcus faecalis,Panama,Vancomycin,232,0,0.0
+Enterococcus faecalis,Poland,Vancomycin,399,16,4.01
+Enterococcus faecalis,Portugal,Vancomycin,608,16,2.63
+Enterococcus faecalis,Romania,Vancomycin,371,2,0.54
+Enterococcus faecalis,Slovenia,Vancomycin,89,0,0.0
+Enterococcus faecalis,Jordan,Vancomycin,77,0,0.0
+Enterococcus faecalis,Kuwait,Vancomycin,328,1,0.3
+Enterococcus faecalis,Morocco,Vancomycin,218,0,0.0
+Enterococcus faecalis,Russia,Vancomycin,389,0,0.0
+Enterococcus faecalis,Thailand,Vancomycin,395,0,0.0
+Enterococcus faecalis,Japan,Vancomycin,213,0,0.0
+Enterococcus faecalis,Latvia,Vancomycin,93,10,10.75
+Enterococcus faecalis,Lithuania,Vancomycin,123,2,1.63
+Enterococcus faecalis,Ukraine,Vancomycin,144,1,0.69
+Enterococcus faecalis,Malaysia,Vancomycin,149,0,0.0
+Enterococcus faecalis,New Zealand,Vancomycin,96,0,0.0
+Enterococcus faecalis,Nigeria,Vancomycin,114,0,0.0

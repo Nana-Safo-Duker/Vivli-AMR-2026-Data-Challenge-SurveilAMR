@@ -1,0 +1,7 @@
+Phenotype,Count
+Non-ESBL/Non-MBL,200
+ESBL,135
+MBL,102
+ESBL+MBL,50
+Other,5
+Carbapenemase,4

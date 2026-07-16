@@ -1,0 +1,39 @@
+# Raw Vivli data (obtain via https://amr.vivli.org — do not redistribute)
+data/raw/
+*.csv
+!data/processed/*.csv
+*.xlsx
+!data/processed/*.xlsx
+
+# Large / local-only files
+atlas_vivli_2004_2024.csv
+BEDAQUILINE*.xlsx
+GASAR*.xlsx
+Omadacycline*.xlsx
+GASAR Study III Protocol*.pdf
+
+# Reference clone
+reference-repo/
+agent-tools/
+agent-transcripts/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Outputs (keep figures for report)
+# outputs/figures/ are tracked
