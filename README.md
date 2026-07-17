@@ -121,6 +121,18 @@ jupyter notebook notebooks/01_eda_surveilamr.ipynb
 6. DREAM bedaquiline MIC by continent/year/subtype
 7. GASAR phenotype and gene-combination profiles
 
+## Key Visualizations
+
+Representative figures from the full analysis pipeline (seven figures in the challenge report; additional country, heatmap, MDR, and EDA plots in `outputs/figures/`):
+
+![ESKAPE resistance trends (2004–2024)](outputs/figures/fig3_resistance_trends.png)
+
+*Figure A. Temporal resistance trends for priority ESKAPE antibiotic–pathogen pairs (ATLAS).*
+
+![Global vs African resistance comparison](outputs/figures/fig10_africa_vs_global.png)
+
+*Figure B. Primary-antibiotic resistance: global latest year vs African ATLAS subset.*
+
 ## Key Findings
 
 | Metric | Value |
